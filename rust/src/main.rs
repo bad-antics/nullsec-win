@@ -116,7 +116,7 @@ This tool is part of the NullSec Security Framework.
 For educational and authorized testing only.
 
 https://github.com/bad-antics
-Twitter: @AnonAntics
+GitHub: bad-antics
 Discord: discord.gg/killers
 "#, count);
 

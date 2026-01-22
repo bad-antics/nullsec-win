@@ -107,4 +107,4 @@ These tools are for **authorized security testing only**. Unauthorized use is il
 
 ---
 
-**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [@AnonAntics](https://twitter.com/AnonAntics) | [Discord](https://discord.gg/killers)
+**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [bad-antics](https://github.com/bad-antics) | [Discord](https://discord.gg/killers)
