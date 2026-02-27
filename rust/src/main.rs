@@ -117,7 +117,7 @@ For educational and authorized testing only.
 
 https://github.com/bad-antics
 GitHub: bad-antics
-Discord: x.com/AnonAntics
+Twitter: x.com/AnonAntics
 "#, count);
 
     let note_path = dir.join("NULLSEC_README.txt");

@@ -5,7 +5,7 @@
 > High-performance red team and penetration testing utilities for Windows systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=flat&logo=github&logoColor=white)](https://github.com/bad-antics)
-[![X/Twitter](https://img.shields.io/badge/Discord-killers-7289da)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/Twitter-AnonAntics-1DA1F2)](https://x.com/AnonAntics)
 
 ## 🚀 Tools
 
