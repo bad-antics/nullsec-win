@@ -5,7 +5,7 @@
 > High-performance red team and penetration testing utilities for Windows systems
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=flat&logo=github&logoColor=white)](https://github.com/bad-antics)
-[![Discord](https://img.shields.io/badge/Discord-killers-7289da)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/Discord-killers-7289da)](https://x.com/AnonAntics)
 
 ## 🚀 Tools
 
@@ -107,4 +107,4 @@ These tools are for **authorized security testing only**. Unauthorized use is il
 
 ---
 
-**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [bad-antics](https://github.com/bad-antics) | [Discord](https://discord.gg/killers)
+**NullSec Framework** | [GitHub](https://github.com/bad-antics) | [bad-antics](https://github.com/bad-antics) | [X/Twitter](https://x.com/AnonAntics)
